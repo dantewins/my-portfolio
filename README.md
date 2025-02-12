@@ -1,7 +1,5 @@
 # My Portfolio
 
-![Portfolio Preview](https://my-portfolio-two-sigma-29.vercel.app/)
-
 Welcome to my personal portfolio repository! This project showcases my work, skills, and projects in a clean and modern design.
 
 ## 🚀 Live Demo
